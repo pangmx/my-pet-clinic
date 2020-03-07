@@ -1,4 +1,4 @@
-package com.mx.collection.mypetclinic.model.service;
+package com.mx.collection.mypetclinic.service;
 
 import com.mx.collection.mypetclinic.model.Owner;
 
